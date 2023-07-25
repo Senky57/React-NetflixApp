@@ -1,0 +1,13 @@
+.all-delete-button{
+    justify-content: center;
+    background-color: rgb(248, 67, 17);
+    color:rgb(247, 229, 205);
+    font-size: 25px;
+    cursor: pointer;
+    transition: all 0.5s linear;
+
+}
+
+.all-delete-button:hover{
+    transform: scale(1.04);
+}

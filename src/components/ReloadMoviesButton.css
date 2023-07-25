@@ -1,0 +1,8 @@
+.reload-all-movies{
+    justify-content: center;
+    background-color: rgb(248, 67, 17);
+    color:rgb(247, 229, 205);
+    font-size: 25px;
+    cursor: pointer;
+
+}
